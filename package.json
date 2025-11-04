@@ -1,0 +1,11 @@
+{
+  "name": "form-ale",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
